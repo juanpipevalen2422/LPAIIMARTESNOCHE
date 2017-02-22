@@ -1,0 +1,4 @@
+
+if rate{
+	calificacion=5
+	}	
